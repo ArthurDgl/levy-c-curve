@@ -1,0 +1,13 @@
+[package]
+name = "levy_c_curve"
+version = "0.1.0"
+edition = "2021"
+authors = ["ArthurDgl"]
+repository = ""
+
+include = [
+    "src/main.rs"
+]
+
+[dependencies]
+rust_render_101 = "0.1.8"
